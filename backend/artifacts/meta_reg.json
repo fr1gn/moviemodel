@@ -1,0 +1,67 @@
+{
+  "allowed_content_ratings": [
+    "R",
+    "PG-13",
+    "PG",
+    "Unrated",
+    "Not Rated",
+    "G",
+    "Approved",
+    "TV-14",
+    "TV-MA",
+    "TV-PG",
+    "X",
+    "TV-G",
+    "Passed",
+    "NC-17",
+    "TV-Y",
+    "TV-Y7"
+  ],
+  "genres_vocab": [
+    "Drama",
+    "Comedy",
+    "Thriller",
+    "Action",
+    "Romance",
+    "Adventure",
+    "Crime",
+    "Sci-Fi",
+    "Fantasy",
+    "Horror",
+    "Family",
+    "Mystery",
+    "Biography",
+    "Animation",
+    "Music",
+    "War",
+    "History",
+    "Sport",
+    "Musical",
+    "Documentary",
+    "Western",
+    "Film-Noir",
+    "Short",
+    "News",
+    "Reality-TV",
+    "Game-Show"
+  ],
+  "numeric_ranges": {
+    "duration": [
+      7,
+      511
+    ],
+    "budget": [
+      218,
+      12215500000
+    ],
+    "title_year": [
+      1916,
+      2016
+    ]
+  },
+  "target_range_observed": [
+    1.6,
+    9.5
+  ],
+  "mode": "REGRESSION"
+}

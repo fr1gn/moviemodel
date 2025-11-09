@@ -1,0 +1,80 @@
+{
+  "allowed_content_ratings": [
+    "R",
+    "PG-13",
+    "PG",
+    "Unrated",
+    "Not Rated",
+    "G",
+    "Approved",
+    "TV-14",
+    "TV-MA",
+    "TV-PG",
+    "X",
+    "TV-G",
+    "Passed",
+    "NC-17",
+    "TV-Y",
+    "TV-Y7"
+  ],
+  "genres_vocab": [
+    "Drama",
+    "Comedy",
+    "Thriller",
+    "Action",
+    "Romance",
+    "Adventure",
+    "Crime",
+    "Sci-Fi",
+    "Fantasy",
+    "Horror",
+    "Family",
+    "Mystery",
+    "Biography",
+    "Animation",
+    "Music",
+    "War",
+    "History",
+    "Sport",
+    "Musical",
+    "Documentary",
+    "Western",
+    "Film-Noir",
+    "Short",
+    "News",
+    "Reality-TV",
+    "Game-Show"
+  ],
+  "numeric_ranges": {
+    "duration": [
+      7,
+      511
+    ],
+    "budget": [
+      218,
+      12215500000
+    ],
+    "title_year": [
+      1916,
+      2016
+    ]
+  },
+  "class_edges": [
+    1.6,
+    5.6,
+    6.3,
+    6.8,
+    7.4,
+    9.5
+  ],
+  "class_labels": [
+    "[1.6, 5.6)",
+    "[5.6, 6.3)",
+    "[6.3, 6.8)",
+    "[6.8, 7.4)",
+    "[7.4, 9.5]"
+  ],
+  "bin_mode": "quantile",
+  "mode": "MULTICLASS",
+  "algo": "xgb"
+}
